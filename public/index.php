@@ -10,6 +10,7 @@
 <div class="nav"> <?php require_once "nav.php" ?></div>
 <div class="hero"><?php require_once "hero.php" ?></div>
 <div class="section"><?php require_once "section.php" ?></div>
+<div class="section"><?php require_once "section.php" ?></div>
 <div class="footer"><?php require_once "footer.php" ?></div>
 
 </div>
